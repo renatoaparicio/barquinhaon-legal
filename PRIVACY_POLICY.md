@@ -8,7 +8,7 @@ A BarquinhaON é uma aplicação independente de informação turística e local
 
 A aplicação é desenvolvida e mantida por Renato Aparício.
 
-Contacto: [barquinhaon@gmail.com](mailto:barquinhaon@gmail.com)
+Contacto: [barquinhaonapp@gmail.com](mailto:barquinhaonapp@gmail.com)
 
 A BarquinhaON é um projeto independente e não representa a Câmara Municipal de Vila Nova da Barquinha nem qualquer outra entidade pública ou privada.
 
@@ -64,4 +64,4 @@ Esta política pode ser atualizada quando forem adicionadas funcionalidades ou a
 
 Para questões sobre privacidade ou sobre a aplicação, contacte:
 
-[barquinhaon@gmail.com](mailto:barquinhaon@gmail.com)
+[barquinhaonapp@gmail.com](mailto:barquinhaonapp@gmail.com)
